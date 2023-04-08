@@ -1,4 +1,4 @@
-# Project Proposal: Machine Learning Model for Russian Parts of Speech Tagging
+# Project Proposal: Machine Learning Model for Identifying Russian Verbs
 ### By Finn Ellingwood
 ## Abstract
 
